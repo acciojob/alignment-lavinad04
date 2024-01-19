@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.middle{
+	border: 1px solid black;
+}
+
+.center{
+	text-align: center;
+}
+
+.left{
+	text-align: left;
+}
+
+.right{
+	text-align: right;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+}
+
+.imgt{
+	background-color:green;
+}
+
+.imgb{
+	background-color:blue;
+}
